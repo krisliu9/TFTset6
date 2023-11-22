@@ -1,0 +1,66 @@
+/* Nama : Kristanto
+NIM : 10121309
+Kelas : IF 8 */
+
+* {
+  background-color: #0d202b;
+  color: white;
+  font-family: "sofia-pro", sans-serif;
+  font-size: 16;
+  text-decoration: none;
+}
+
+#h1 {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+
+#navi {
+  padding: 20px;
+  border: 1px solid white;
+}
+
+.test {
+  display: flex;
+  background-color: red;
+  justify-content: space-around;
+}
+
+#content-1 {
+  justify-content: center;
+  padding: 20px;
+  margin: 20px;
+  margin-top: 10px;
+  padding-top: 0px;
+  color: #88a0a7;
+}
+
+#main {
+  display: flex;
+  justify-content: space-around;
+}
+
+#h2 {
+  display: flex;
+  justify-content: center;
+}
+
+#video {
+  display: flex;
+  margin: 20px;
+  padding: 20px;
+  justify-content: space-around;
+}
+
+#content-2 {
+  display: flex;
+  padding: 20px;
+  padding-bottom: 10px;
+  justify-content: center;
+}
+
+.image {
+  display: flex;
+  justify-content: space-evenly;
+}
